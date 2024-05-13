@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-I’m a React Frontend Developer. I specialize in bringing designs to life on the web, ensuring they’re not only functional but also a joy to interact with. Let's create something awesome together!
+I’m Bartek, a React Frontend Developer. I specialize in bringing designs to life on the web, ensuring they’re not only functional but also a joy to interact with. Let's create something awesome together!
 
 ✨ **Explore my portfolio and discover the projects I'm passionate about by visiting my [homepage](https://bartek-kasprzyk.github.io/homepage/)!**
 
