@@ -1,10 +1,6 @@
 <div align="center">
-    <h1>Bartosz Kasprzyk</h1>
+    <h1>𝔉𝔯𝔬𝔫𝔱𝔢𝔫𝔡 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯</h1>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bartek-kasprzyk&label=Profile_views&color=A630B0&style=plastic&style=for-the-badge" alt="views-bartek-kasprzyk" />
-</p>
 
 Hi there 👋
 
@@ -32,6 +28,7 @@ I’m a React Frontend Developer. I specialize in bringing designs to life on th
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ## 📈 Stats
+
 <p>
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=bartek-kasprzyk&show_icons=true&theme=synthwave&rank_icon=github" alt="github-stats" />
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartek-kasprzyk&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages" />
@@ -43,3 +40,9 @@ I’m a React Frontend Developer. I specialize in bringing designs to life on th
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bartek.kasprzyk.967)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delta.boye/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pl.linkedin.com/bkasprzyk)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bartek-kasprzyk&label=Profile_views&color=A630B0&style=plastic&style=for-the-badge" alt="views-bartek-kasprzyk" />
+</p>
