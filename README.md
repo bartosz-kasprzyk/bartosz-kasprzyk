@@ -12,6 +12,8 @@ I’m a React Frontend Developer. I specialize in bringing designs to life on th
 
 ✨ **Explore my portfolio and discover the projects I'm passionate about by visiting my [homepage](https://bartek-kasprzyk.github.io/homepage/)!**
 
+<br/>
+
 ## 🛠 Technologies & tools
 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
