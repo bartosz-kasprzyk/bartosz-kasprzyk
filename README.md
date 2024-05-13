@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1>𝔉𝔯𝔬𝔫𝔱𝔢𝔫𝔡 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯</h1>
 </div>
 
