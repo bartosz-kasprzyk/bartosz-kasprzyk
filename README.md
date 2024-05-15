@@ -6,7 +6,7 @@ Hi there 👋
 
 I’m Bartek, a React Frontend Developer. I specialize in bringing designs to life on the web, ensuring they’re not only functional but also a joy to interact with. Let's create something awesome together!
 
-✨ **Explore my portfolio and discover the projects I'm passionate about by visiting my [homepage](https://bartek-kasprzyk.github.io/homepage/)!**
+✨ **Explore my portfolio and discover the projects I'm passionate about by visiting my [homepage](https://bartosz-kasprzyk.github.io/homepage/)!**
 
 <br/>
 
@@ -30,8 +30,8 @@ I’m Bartek, a React Frontend Developer. I specialize in bringing designs to li
 ## 📈 Stats
 
 <p>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=bartek-kasprzyk&show_icons=true&theme=synthwave&rank_icon=github" alt="github-stats" />
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartek-kasprzyk&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=bartosz-kasprzyk&show_icons=true&theme=synthwave&rank_icon=github" alt="github-stats" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartosz-kasprzyk&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages" />
 </p>
 
 
@@ -44,5 +44,5 @@ I’m Bartek, a React Frontend Developer. I specialize in bringing designs to li
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bartek-kasprzyk&label=Profile_views&color=A630B0&style=plastic&style=for-the-badge" alt="views-bartek-kasprzyk" />
+  <img src="https://komarev.com/ghpvc/?username=bartosz-kasprzyk&label=Profile_views&color=A630B0&style=plastic&style=for-the-badge" alt="views-bartosz-kasprzyk" />
 </p>
