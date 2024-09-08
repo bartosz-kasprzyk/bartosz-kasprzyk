@@ -19,7 +19,7 @@ I’m Bartek, a React Frontend Developer. I specialize in bringing designs to li
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![React](https://camo.githubusercontent.com/31b08faa61951179c95f91d42f8ce1b56012e80fa6e269d23221031d1b13fd0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b)](https://reactjs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org)
 [![React Redux](https://img.shields.io/badge/React_Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com)
 [![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999.svg?style=for-the-badge&logo=redux-saga&logoColor=white)](https://redux-saga.js.org)
