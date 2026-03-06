@@ -39,7 +39,7 @@ I’m Bartek, a React Frontend Developer. I specialize in bringing designs to li
 ## 📈 Stats
 
 <p>
-  <img height=140 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bartosz-kasprzyk&show_icons=true&theme=synthwave&rank_icon=github" alt="github-stats" />
+  <img height=165 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bartosz-kasprzyk&show_icons=true&theme=synthwave&rank_icon=github" alt="github-stats" />
   <img height=170 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bartosz-kasprzyk&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages" />
 </p>
 
